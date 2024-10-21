@@ -1,3 +1,3 @@
 #PlayEdu开源培训系统
-redis-7.0.12
+1Panel
 #其它
